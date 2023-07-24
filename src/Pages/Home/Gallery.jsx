@@ -32,7 +32,7 @@ const Gallery = () => {
           Explore the amazing collection of photos of our top universities
         </p>
       </div>
-      <div className="max-w-screen-2xl px-2 md:px-4 lg:px-2 xl:px-4 2xl:px-0 mx-auto my-10 grid grid-cols-3 gap-6">
+      <div className="max-w-screen-2xl px-2 md:px-4 lg:px-2 xl:px-4 2xl:px-0 mx-auto my-10 grid md:grid-cols-2 lg:grid-cols-3 gap-6">
         {collegePhoto.map((photo) => {
           const images = Object.values(photo);
           images.splice(0, 2);

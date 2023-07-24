@@ -26,7 +26,6 @@ export const AdmissionData = (studentInfo) => {
   axios
     .post(`${import.meta.env.VITE_BaseURL}/mycolleges`, studentInfo)
     .then((res) => {
-      console.log(res.data);
       if (res.data.insertedId) {
         Store.addNotification({
           title: "Admission successful",
