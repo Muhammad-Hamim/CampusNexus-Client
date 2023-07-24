@@ -2,7 +2,7 @@ import React from "react";
 import Gallery from "../Pages/Home/Gallery";
 import Colleges from "../Pages/Colleges/Colleges";
 import Review from "../Pages/Home/Review";
-
+import ResearchPaper from "../Pages/Home/ResearchPaper";
 const Home = () => {
   return (
     <div>
@@ -17,6 +17,9 @@ const Home = () => {
       </div>
       <div>
         <Gallery />
+      </div>
+      <div>
+        <ResearchPaper />
       </div>
       <div>
         <Review />

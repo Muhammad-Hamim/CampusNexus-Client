@@ -12,6 +12,8 @@ const AdmissionForm = () => {
   const { user } = useAuth();
   const { userData } = getUser(user?.email);
   const { collegePhoto, isLoading, refetch } = useCollegeGallery("admission");
+  const [uniImg, setUniImg] = useState(null);
+  console.log(collegePhoto);
   const { register, handleSubmit } = useForm();
   const onSubmit = (data) => {
     const information = {
