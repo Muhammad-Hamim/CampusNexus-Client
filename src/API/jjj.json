@@ -1,0 +1,2299 @@
+{
+  "colleges": [
+    {
+      "name": "Massachusetts Institute of Technology (MIT)",
+      "image": "https://www.mit.edu/files/images/201807/15656704711_00457bd2c9_b_1.jpg",
+      "admissionDates": "October 1 - November 30",
+      "events": ["Freshman Orientation", "Commencement", "Tech Expo"],
+      "researchHistory": "MIT is a pioneer in cutting-edge research and innovation.",
+      "sports": ["Soccer", "Basketball", "Swimming"],
+      "rating": 4.9,
+      "details": "Massachusetts Institute of Technology is a prestigious private research university in Cambridge, Massachusetts.",
+      "collegeGallery": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3d/MIT_Main_Campus_Aerial.jpg",
+        "https://admissionsight.com/wp-content/uploads/2022/12/shutterstock_1793957698.jpg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Advancements in Quantum Computing",
+          "author": "John Smith",
+          "link": "https://example.com/research-paper-1"
+        },
+        {
+          "title": "Sustainable Energy Solutions for the Future",
+          "author": "Mary Johnson",
+          "link": "https://example.com/research-paper-2"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.8,
+          "comment": "MIT offers an exceptional education with top-notch faculty."
+        },
+        {
+          "rating": 4.7,
+          "comment": "The research opportunities at MIT are unparalleled."
+        }
+      ],
+      "subjects": [
+        "Computer Science",
+        "Electrical Engineering",
+        "Biological Sciences",
+        "Mechanical Engineering",
+        "Business Administration",
+        "Chemistry",
+        "Political Science",
+        "Psychology",
+        "Artificial Intelligence",
+        "Aeronautics and Astronautics",
+        "Mathematics",
+        "Economics",
+        "Physics",
+        "Civil Engineering",
+        "Environmental Science",
+        "History",
+        "Literature",
+        "Sociology",
+        "Robotics"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Complete the online application through the MIT admissions portal."
+        },
+        {
+          "step": 2,
+          "description": "Pay the non-refundable application fee through the provided payment gateway."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and standardized test scores."
+        },
+        {
+          "step": 4,
+          "description": "Provide two letters of recommendation from teachers or counselors."
+        },
+        {
+          "step": 5,
+          "description": "Participate in an optional interview with a member of the admissions committee."
+        },
+        {
+          "step": 6,
+          "description": "Check the MIT admissions portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, complete enrollment forms and submit the enrollment deposit."
+        }
+      ]
+    },
+    {
+      "name": "California Institute of Technology (Caltech)",
+      "image": "https://www.usnews.com/object/image/0000014e-d0ea-d0b6-afdf-d0fa07120000/150727caltech-submitted.jpg?update-time=1438024214020&size=responsiveFlow970",
+      "admissionDates": "September 15 - November 30",
+      "events": ["New Student Orientation", "Convocation", "Innovation Fair"],
+      "researchHistory": "Caltech is known for its groundbreaking research in science and engineering.",
+      "sports": ["Tennis", "Swimming", "Volleyball"],
+      "rating": 4.7,
+      "details": "California Institute of Technology is a prestigious private research university in Pasadena, California.",
+      "collegeGallery": [
+        "https://images.shiksha.com/mediadata/images/1534833227phpo5CzKB.jpeg",
+        "https://divisions-prod.s3.amazonaws.com/admissions22/images/38441190530_e709169de6_k_IPl.2e16d0ba.fill-1440x810-c100.jpg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Breakthroughs in Nanotechnology",
+          "author": "Michael Anderson",
+          "link": "https://example.com/research-paper-3"
+        },
+        {
+          "title": "Advancing Space Exploration: The Role of Robotics",
+          "author": "Emily Adams",
+          "link": "https://example.com/research-paper-4"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "Caltech offers a challenging academic environment and excellent research opportunities."
+        },
+        {
+          "rating": 4.3,
+          "comment": "The professors at Caltech are brilliant and supportive."
+        }
+      ],
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Computer Science",
+        "Astronomy",
+        "Geology",
+        "Applied Mathematics",
+        "Chemical Engineering",
+        "Bioengineering",
+        "Environmental Science",
+        "Planetary Science",
+        "Materials Science",
+        "Neuroscience",
+        "Economics",
+        "Political Science",
+        "Data Science",
+        "Astrophysics"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Complete the online application for undergraduate admission."
+        },
+        {
+          "step": 2,
+          "description": "Pay the non-refundable application fee through the online payment system."
+        },
+        {
+          "step": 3,
+          "description": "Submit official high school transcripts and standardized test scores (SAT or ACT)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two teacher evaluations and one counselor recommendation."
+        },
+        {
+          "step": 5,
+          "description": "Participate in optional alumni interviews."
+        },
+        {
+          "step": 6,
+          "description": "Check the Caltech application portal for admission decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, complete the required forms and submit the enrollment deposit."
+        }
+      ]
+    },
+    {
+      "name": "Yale University",
+      "image": "https://admissions.yale.edu/sites/default/files/styles/flexslider_full/public/2010_05_10_19_03_37_central_campus_1.jpg?itok=1hVNjje6",
+      "admissionDates": "September 1 - November 15",
+      "events": ["Orientation Week", "Commencement", "Yale Day of Service"],
+      "researchHistory": "Yale University has a long history of significant contributions to research and academia.",
+      "sports": ["Football", "Basketball", "Squash"],
+      "rating": 4.8,
+      "details": "Yale University is a private Ivy League research university in New Haven, Connecticut.",
+      "collegeGallery": [
+        "https://news.yale.edu/sites/default/files/styles/featured_media/public/d6_files/Aerial_2.jpg?itok=xlbgzg5Y",
+        "https://www.cappex.com/sites/default/files/styles/max_1200/public/images/hero/college/130794_hero.jpg?itok=Eqh0eVJi"
+      ],
+      "researchPapers": [
+        {
+          "title": "The Role of Literature in Society",
+          "author": "Ava Johnson",
+          "link": "https://example.com/research-paper-5"
+        },
+        {
+          "title": "Addressing Global Health Disparities",
+          "author": "Robert Adams",
+          "link": "https://example.com/research-paper-6"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.9,
+          "comment": "Yale provides a world-class education and has a beautiful campus."
+        },
+        {
+          "rating": 4.7,
+          "comment": "The research opportunities at Yale are outstanding."
+        }
+      ],
+      "subjects": [
+        "English",
+        "History",
+        "Political Science",
+        "Economics",
+        "Psychology",
+        "Biology",
+        "Chemistry",
+        "Philosophy",
+        "Sociology",
+        "Mathematics",
+        "Art",
+        "Physics",
+        "Environmental Studies",
+        "Theater Studies",
+        "Computer Science",
+        "Religious Studies",
+        "Astronomy",
+        "Linguistics",
+        "Statistics"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the Common Application or the Coalition Application online."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official high school transcripts and standardized test scores (SAT or ACT)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two teacher recommendations and one counselor recommendation."
+        },
+        {
+          "step": 5,
+          "description": "Complete the Yale-specific questions and additional essay prompts."
+        },
+        {
+          "step": 6,
+          "description": "Check the Yale applicant portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, submit the enrollment agreement and deposit."
+        }
+      ]
+    },
+    {
+      "name": "University of Oxford",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/63c7f514c2ccb05c88766ebe/Oxford-University/960x0.jpg?format=jpg&width=960",
+      "admissionDates": "October 1 - January 15",
+      "events": ["Freshers' Week", "Encaenia", "Science Fair"],
+      "researchHistory": "The University of Oxford is renowned for its long tradition of academic excellence and research.",
+      "sports": ["Cricket", "Rowing", "Rugby"],
+      "rating": 4.8,
+      "details": "The University of Oxford is a prestigious public research university in Oxford, England.",
+      "collegeGallery": [
+        "https://media.gq-magazine.co.uk/photos/5d139a49bc4bf64ef07f0890/16:9/w_2560%2Cc_limit/Aerial-hp--GQ-25aug17_alamy_b.jpg",
+        "https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/Oxford_PAX000121-01_SuperRes%20900.jpg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Shakespearean Studies: The Bard's Impact on Modern Literature",
+          "author": "William Johnson",
+          "link": "https://example.com/research-paper-7"
+        },
+        {
+          "title": "Discovering Ancient Civilizations",
+          "author": "Elizabeth Smith",
+          "link": "https://example.com/research-paper-8"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.9,
+          "comment": "Oxford offers a world-class education with esteemed faculty members."
+        },
+        {
+          "rating": 4.7,
+          "comment": "The research opportunities at Oxford are exceptional."
+        }
+      ],
+      "subjects": [
+        "Medicine",
+        "Law",
+        "Computer Science",
+        "Engineering Science",
+        "Biology",
+        "Chemistry",
+        "Economics",
+        "History",
+        "Philosophy",
+        "Psychology",
+        "Physics",
+        "Mathematics",
+        "Politics",
+        "English",
+        "Geography",
+        "Sociology",
+        "Modern Languages",
+        "Classics",
+        "Theology"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the UCAS application online, indicating the course and college preferences."
+        },
+        {
+          "step": 2,
+          "description": "Pay the UCAS application fee through the provided payment system."
+        },
+        {
+          "step": 3,
+          "description": "Complete the required written work and submit it by the deadline."
+        },
+        {
+          "step": 4,
+          "description": "Participate in interviews conducted by the college or department (if required)."
+        },
+        {
+          "step": 5,
+          "description": "Check UCAS Track for application status and decisions."
+        },
+        {
+          "step": 6,
+          "description": "If accepted, receive the offer and respond to it as per the guidelines."
+        },
+        {
+          "step": 7,
+          "description": "Upon meeting the conditions of the offer, confirm enrollment and prepare for studies."
+        }
+      ]
+    },
+    {
+      "name": "University of Cambridge",
+      "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E746/production/_118560295_723c9811-5b1c-487b-8b1f-ee89a20dd5a1.jpg",
+      "admissionDates": "September 1 - January 15",
+      "events": ["Freshers' Week", "General Admission", "Arts Festival"],
+      "researchHistory": "The University of Cambridge is a leading institution known for its groundbreaking research.",
+      "sports": ["Football", "Tennis", "Hockey"],
+      "rating": 4.7,
+      "details": "The University of Cambridge is a prestigious public research university in Cambridge, England.",
+      "collegeGallery": [
+        "https://i2-prod.cambridge-news.co.uk/news/cambridge-news/article24183175.ece/ALTERNATES/s1200d/0_JS238376993.jpg",
+        "https://study-eu.s3.amazonaws.com/uploads/image/path/101/wide_fullhd_university-of-cambridge.jpg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Advancements in Medical Science",
+          "author": "David Anderson",
+          "link": "https://example.com/research-paper-9"
+        },
+        {
+          "title": "Exploring Environmental Sustainability",
+          "author": "Sophia Adams",
+          "link": "https://example.com/research-paper-10"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "Cambridge provides an enriching educational experience and supportive environment."
+        },
+        {
+          "rating": 4.3,
+          "comment": "The research opportunities at Cambridge are outstanding."
+        }
+      ],
+      "subjects": [
+        "Medicine",
+        "Engineering",
+        "Economics",
+        "Physics",
+        "Biology",
+        "Chemistry",
+        "Computer Science",
+        "Law",
+        "Mathematics",
+        "History",
+        "Philosophy",
+        "Psychology",
+        "Geography",
+        "English",
+        "Sociology",
+        "Modern Languages",
+        "Politics",
+        "Education",
+        "Theology"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the UCAS application with course and college preferences."
+        },
+        {
+          "step": 2,
+          "description": "Pay the UCAS application fee through the provided payment system."
+        },
+        {
+          "step": 3,
+          "description": "Submit any additional documents or written work required by the course."
+        },
+        {
+          "step": 4,
+          "description": "Prepare for and participate in interviews, if requested."
+        },
+        {
+          "step": 5,
+          "description": "Check UCAS Track for application status and decisions."
+        },
+        {
+          "step": 6,
+          "description": "If accepted, receive the offer and respond accordingly."
+        },
+        {
+          "step": 7,
+          "description": "Meet any conditions of the offer and confirm enrollment."
+        }
+      ]
+    },
+    {
+      "name": "Princeton University",
+      "image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_768,q_50,w_1024/v1/clients/princetonnj/princeton_university_main_building_at_front_gate_geraldine_scull_209cbd93-c4fc-4485-a274-66b4076c71e0.jpg",
+      "admissionDates": "September 1 - January 1",
+      "events": ["Opening Exercises", "Commencement", "Princeton Research Day"],
+      "researchHistory": "Princeton University is renowned for its contributions to research and academics.",
+      "sports": ["Soccer", "Baseball", "Fencing"],
+      "rating": 4.8,
+      "details": "Princeton University is a prestigious private research university in Princeton, New Jersey.",
+      "collegeGallery": [
+        "https://wpsproav.com/wp-content/uploads/2021/11/Josh-McBay-McCosh-Hall-Room-50-Princeton-University1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Princeton_University_Whitman_College.JPG/1200px-Princeton_University_Whitman_College.JPG"
+      ],
+      "researchPapers": [
+        {
+          "title": "The Future of Artificial Intelligence",
+          "author": "Oliver Johnson",
+          "link": "https://example.com/research-paper-11"
+        },
+        {
+          "title": "Understanding Climate Change: A Multidisciplinary Approach",
+          "author": "Emma Smith",
+          "link": "https://example.com/research-paper-12"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.9,
+          "comment": "Princeton offers a world-class education and has a beautiful campus."
+        },
+        {
+          "rating": 4.7,
+          "comment": "The research opportunities at Princeton are exceptional."
+        }
+      ],
+      "subjects": [
+        "Computer Science",
+        "Engineering",
+        "Physics",
+        "Economics",
+        "Biology",
+        "Chemistry",
+        "Politics",
+        "History",
+        "Psychology",
+        "Philosophy",
+        "Sociology",
+        "Mathematics",
+        "English",
+        "Art",
+        "Geosciences",
+        "Religion",
+        "Music",
+        "Astronomy",
+        "African American Studies",
+        "Anthropology"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the Common Application or the Coalition Application online."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and standardized test scores (SAT or ACT)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two teacher recommendations and one counselor recommendation."
+        },
+        {
+          "step": 5,
+          "description": "Participate in an optional interview with a member of the admissions committee."
+        },
+        {
+          "step": 6,
+          "description": "Check the Princeton applicant portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, complete enrollment forms and submit the enrollment deposit."
+        }
+      ]
+    },
+    {
+      "name": "University of Chicago",
+      "image": "https://mc-1b49d921-43a2-4264-88fd-647979-cdn-endpoint.azureedge.net/-/media/images/logo-background/campus_aerial_2-min.png?h=627&iar=0&w=1200&rev=d36b0970f9a34d84a096aedd844c5817&hash=8B454CD588430B9011993908192801EB",
+      "admissionDates": "September 1 - January 15",
+      "events": ["Welcome Week", "Convocation", "Hyde Park Day"],
+      "researchHistory": "The University of Chicago is known for fostering innovative research and intellectual curiosity.",
+      "sports": ["Basketball", "Squash", "Table Tennis"],
+      "rating": 4.7,
+      "details": "The University of Chicago is a prestigious private research university in Chicago, Illinois.",
+      "collegeGallery": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6b/University_of_Chicago%2C_Harper_Library.jpg",
+        "https://images.squarespace-cdn.com/content/v1/546119bae4b085cc73a9bff6/1473968857094-A9RWLGRCCFW8I2LWKJ2A/image-asset.jpeg?format=1000w"
+      ],
+      "researchPapers": [
+        {
+          "title": "Understanding Behavioral Economics",
+          "author": "Daniel Anderson",
+          "link": "https://example.com/research-paper-13"
+        },
+        {
+          "title": "Advancements in Material Science",
+          "author": "Ella Johnson",
+          "link": "https://example.com/research-paper-14"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "The University of Chicago offers an intellectually stimulating environment and a diverse community."
+        },
+        {
+          "rating": 4.3,
+          "comment": "The research opportunities at the University of Chicago are excellent."
+        }
+      ],
+      "subjects": [
+        "Economics",
+        "Computer Science",
+        "Physics",
+        "Biology",
+        "Mathematics",
+        "Chemistry",
+        "Political Science",
+        "Psychology",
+        "Sociology",
+        "History",
+        "English",
+        "Geology",
+        "Philosophy",
+        "Art",
+        "Anthropology",
+        "Astronomy",
+        "Linguistics",
+        "Music",
+        "Religious Studies",
+        "Sanskrit Studies"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the Common Application or the Coalition Application online."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and standardized test scores (SAT or ACT)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two teacher recommendations and one counselor recommendation."
+        },
+        {
+          "step": 5,
+          "description": "Submit additional essays or portfolio (if required for specific programs)."
+        },
+        {
+          "step": 6,
+          "description": "Check the UChicago applicant portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, complete enrollment forms and submit the enrollment deposit."
+        }
+      ]
+    },
+    {
+      "name": "Columbia University",
+      "image": "https://www.columbia.edu/content/sites/default/files/styles/cu_crop/public/content/about/Morningside%20Campus.JPG?itok=Dnaz0Ulk",
+      "admissionDates": "September 1 - January 5",
+      "events": [
+        "New Student Orientation",
+        "Commencement",
+        "Columbia World Projects Expo"
+      ],
+      "researchHistory": "Columbia University is known for its contributions to research and global impact.",
+      "sports": ["Football", "Basketball", "Fencing"],
+      "rating": 4.8,
+      "details": "Columbia University is a prestigious private research university in New York City, New York.",
+      "collegeGallery": [
+        "https://citydays.com/blog-assets/media/images/13955460339_95717f7f97_h.max-1920x1080.jpg",
+        "https://media.cnn.com/api/v1/images/stellar/prod/220911220609-columbia-university-campus-file.jpg?c=16x9&q=w_800,c_fill"
+      ],
+      "researchPapers": [
+        {
+          "title": "Social Justice and Human Rights",
+          "author": "Olivia Johnson",
+          "link": "https://example.com/research-paper-15"
+        },
+        {
+          "title": "Advancements in Artificial Intelligence",
+          "author": "Noah Anderson",
+          "link": "https://example.com/research-paper-16"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.9,
+          "comment": "Columbia offers a diverse and enriching educational experience in the heart of NYC."
+        },
+        {
+          "rating": 4.7,
+          "comment": "The research opportunities at Columbia are outstanding."
+        }
+      ],
+      "subjects": [
+        "Computer Science",
+        "Economics",
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "Political Science",
+        "Psychology",
+        "History",
+        "English",
+        "Sociology",
+        "Biological Sciences",
+        "Environmental Science",
+        "Art",
+        "Astronomy",
+        "Anthropology",
+        "Religion",
+        "Classics",
+        "Dance",
+        "Statistics",
+        "East Asian Studies"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the Common Application or the Coalition Application online."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and standardized test scores (SAT or ACT)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two teacher recommendations and one counselor recommendation."
+        },
+        {
+          "step": 5,
+          "description": "Submit supplementary materials, such as arts portfolios (if applicable)."
+        },
+        {
+          "step": 6,
+          "description": "Check the Columbia applicant portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, complete enrollment forms and submit the enrollment deposit."
+        }
+      ]
+    },
+    {
+      "name": "University of California, Berkeley",
+      "image": "https://www.tclf.org/sites/default/files/thumbnails/image/CA_Berkeley_UniversityOfCaliforniaAtBerkeley_byCharlieNguyen-Flickr_2008_001_Sig.jpg",
+      "admissionDates": "November 1 - November 30",
+      "events": ["Welcome Week", "Commencement", "Cal Day"],
+      "researchHistory": "UC Berkeley is known for its leading research contributions in various fields.",
+      "sports": ["Soccer", "Swimming", "Tennis"],
+      "rating": 4.7,
+      "details": "The University of California, Berkeley is a prestigious public research university in Berkeley, California.",
+      "collegeGallery": [
+        "https://news.berkeley.edu/wp-content/uploads/2022/10/CampusConvo_LnS_FINAL.jpg",
+        "https://nhimagazine.com/wp-content/uploads/2023/01/R-5.jpg"
+      ],
+      "researchPapers": [
+        {
+          "title": "The Role of Technology in Education",
+          "author": "Jacob Johnson",
+          "link": "https://example.com/research-paper-17"
+        },
+        {
+          "title": "Addressing Climate Change through Policy",
+          "author": "Emma Williams",
+          "link": "https://example.com/research-paper-18"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "UC Berkeley offers a diverse and intellectually stimulating academic environment."
+        },
+        {
+          "rating": 4.3,
+          "comment": "The research opportunities at UC Berkeley are excellent."
+        }
+      ],
+      "subjects": [
+        "Computer Science",
+        "Engineering",
+        "Economics",
+        "Physics",
+        "Biology",
+        "Chemistry",
+        "Mathematics",
+        "Political Science",
+        "Psychology",
+        "Environmental Science",
+        "Sociology",
+        "English",
+        "Art",
+        "History",
+        "Public Health",
+        "Architecture",
+        "Anthropology",
+        "Legal Studies",
+        "Linguistics",
+        "Ethnic Studies"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the UC Application online."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official high school transcripts and standardized test scores (SAT or ACT)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two letters of recommendation from teachers or counselors."
+        },
+        {
+          "step": 5,
+          "description": "Submit additional materials (e.g., arts, music, or athletic achievements, if applicable)."
+        },
+        {
+          "step": 6,
+          "description": "Check the UC Berkeley applicant portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, complete enrollment forms and submit the enrollment deposit."
+        }
+      ]
+    },
+    {
+      "name": "University of Michigan",
+      "image": "https://s3-rd-prod.crainsdetroit.com/styles/1200x630/s3/122129725_10157528088515753_6628396894519395936_n.jpeg",
+      "admissionDates": "September 1 - February 1",
+      "events": ["Welcome Week", "Commencement", "Festival of the Arts"],
+      "researchHistory": "The University of Michigan is known for its influential research and academic programs.",
+      "sports": ["Football", "Basketball", "Ice Hockey"],
+      "rating": 4.8,
+      "details": "The University of Michigan is a prestigious public research university in Ann Arbor, Michigan.",
+      "collegeGallery": [
+        "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/XEX6KLNWCBDNNHUCJOK5U5F4KM.jpg",
+        "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7DZ7E66465DPVCKAAKOPQZDWRI.JPG"
+      ],
+      "researchPapers": [
+        {
+          "title": "Advancements in Biomedical Engineering",
+          "author": "Ethan Johnson",
+          "link": "https://example.com/research-paper-19"
+        },
+        {
+          "title": "Exploring Artificial Intelligence in Healthcare",
+          "author": "Ava Williams",
+          "link": "https://example.com/research-paper-20"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.9,
+          "comment": "The University of Michigan offers a vibrant campus life and outstanding academics."
+        },
+        {
+          "rating": 4.7,
+          "comment": "The research opportunities at the University of Michigan are excellent."
+        }
+      ],
+      "subjects": [
+        "Computer Science",
+        "Engineering",
+        "Business Administration",
+        "Economics",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Psychology",
+        "Mathematics",
+        "Sociology",
+        "Political Science",
+        "History",
+        "English",
+        "Art",
+        "Anthropology",
+        "Architecture",
+        "Urban Studies",
+        "Music",
+        "Philosophy",
+        "Dance"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the Common Application or the Coalition Application online."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official high school transcripts and standardized test scores (SAT or ACT)."
+        },
+        {
+          "step": 4,
+          "description": "Provide one academic teacher evaluation and one counselor recommendation."
+        },
+        {
+          "step": 5,
+          "description": "Submit the required short essays and responses to university-specific questions."
+        },
+        {
+          "step": 6,
+          "description": "Check the University of Michigan applicant portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, complete enrollment forms and submit the enrollment deposit."
+        }
+      ]
+    },
+    {
+      "name": "Stanford University",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Stanford_University_campus_from_above.jpg",
+      "admissionDates": "September 1 - January 2",
+      "events": ["Welcome Week", "Commencement", "Cardinal Nights"],
+      "researchHistory": "Stanford University is known for its groundbreaking research and innovation.",
+      "sports": ["Soccer", "Tennis", "Swimming"],
+      "rating": 4.9,
+      "details": "Stanford University is a prestigious private research university in Stanford, California.",
+      "collegeGallery": [
+        "https://imageio.forbes.com/specials-images/imageserve/5f08c52402f81f0006503a14/Overhead-View-of-Stanford-University/960x0.jpg?format=jpg&width=960",
+        "https://stanfordreview.org/content/images/2023/03/1280px-Stanford_University_Main_Quad_-_7_June_2009.jpg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Advancements in Artificial Intelligence",
+          "author": "Sophia Johnson",
+          "link": "https://example.com/research-paper-21"
+        },
+        {
+          "title": "Addressing Global Health Challenges",
+          "author": "Michael Williams",
+          "link": "https://example.com/research-paper-22"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.8,
+          "comment": "Stanford offers an unparalleled educational experience with world-class faculty."
+        },
+        {
+          "rating": 4.7,
+          "comment": "The research opportunities at Stanford are exceptional."
+        }
+      ],
+      "subjects": [
+        "Computer Science",
+        "Engineering",
+        "Biology",
+        "Economics",
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "Political Science",
+        "Psychology",
+        "History",
+        "Sociology",
+        "Artificial Intelligence",
+        "Philosophy",
+        "Environmental Science",
+        "Business Administration",
+        "Earth Sciences",
+        "Astronomy",
+        "Literature",
+        "Anthropology",
+        "Dance"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the Common Application or the Coalition Application online."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and standardized test scores (SAT or ACT)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two teacher recommendations and one counselor recommendation."
+        },
+        {
+          "step": 5,
+          "description": "Submit additional essays or portfolio (if required for specific programs)."
+        },
+        {
+          "step": 6,
+          "description": "Check the Stanford applicant portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, complete enrollment forms and submit the enrollment deposit."
+        }
+      ]
+    },
+    {
+      "name": "Harvard University",
+      "image": "https://images.collegedunia.com/public/college_data/images/studyabroad/appImage/college_1090_29-15:00_o-HARVARD-UNIVERSITY-BUILDING-facebook.jpeg",
+      "admissionDates": "September 1 - January 1",
+      "events": ["Opening Days", "Commencement", "Harvard-Yale Game"],
+      "researchHistory": "Harvard University is known for its rich history and contributions to academia and research.",
+      "sports": ["Football", "Basketball", "Rowing"],
+      "rating": 4.9,
+      "details": "Harvard University is a prestigious private Ivy League research university in Cambridge, Massachusetts.",
+      "collegeGallery": [
+        "https://college.us.com/wp-content/uploads/2023/01/what-is-Harvard-college-vs-Harvard-university.png",
+        "https://www.thoughtco.com/thmb/KniryrUUzwKKvi_o2lxaY2t0ii8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/harvardresized-56a188733df78cf7726bce13.jpg"
+      ],
+      "researchPapers": [
+        {
+          "title": "The Future of Genetics and Genomics",
+          "author": "James Anderson",
+          "link": "https://example.com/research-paper-23"
+        },
+        {
+          "title": "Advancements in Astrophysics",
+          "author": "Isabella Johnson",
+          "link": "https://example.com/research-paper-24"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.8,
+          "comment": "Harvard offers an exceptional education and a diverse community of scholars."
+        },
+        {
+          "rating": 4.7,
+          "comment": "The research opportunities at Harvard are outstanding."
+        }
+      ],
+      "subjects": [
+        "Computer Science",
+        "Economics",
+        "Engineering",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Political Science",
+        "History",
+        "Psychology",
+        "Sociology",
+        "Environmental Science",
+        "Philosophy",
+        "English",
+        "Business Administration",
+        "Education",
+        "Public Health",
+        "Art",
+        "Religious Studies",
+        "East Asian Studies"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the Common Application or the Coalition Application online."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and standardized test scores (SAT or ACT)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two teacher recommendations and one counselor recommendation."
+        },
+        {
+          "step": 5,
+          "description": "Submit additional materials, such as arts or athletic portfolios (if applicable)."
+        },
+        {
+          "step": 6,
+          "description": "Check the Harvard applicant portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, complete enrollment forms and submit the enrollment deposit."
+        }
+      ]
+    },
+    {
+      "name": "ETH Zurich - Swiss Federal Institute of Technology",
+      "image": "https://mas-mtec.ethz.ch/aboutus/eth-zurich/_jcr_content/par/fullwidthimage/image.imageformat.1286.1337144021.jpg",
+      "admissionDates": "December 1 - January 15",
+      "events": [
+        "Orientation Week",
+        "Graduation Ceremony",
+        "Science and Innovation Fair"
+      ],
+      "researchHistory": "ETH Zurich is known for its excellence in science, engineering, and research.",
+      "sports": ["Soccer", "Swimming", "Tennis"],
+      "rating": 4.7,
+      "details": "ETH Zurich is a prestigious public research university in Zurich, Switzerland.",
+      "collegeGallery": [
+        "https://www.zuerich.com/sites/default/files/web_zuerich_eth_hauptgebaeude_1280x960_24299.jpg",
+        "https://ethz.ch/bin/ethz/components/previewImage/youtube/JVL4xyvqU3A.jpg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Sustainable Energy Solutions",
+          "author": "Oliver Mueller",
+          "link": "https://example.com/research-paper-25"
+        },
+        {
+          "title": "Advancements in Robotics",
+          "author": "Sophia Meier",
+          "link": "https://example.com/research-paper-26"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "ETH Zurich provides an outstanding education and research opportunities."
+        },
+        {
+          "rating": 4.3,
+          "comment": "The research facilities at ETH Zurich are top-notch."
+        }
+      ],
+      "subjects": [
+        "Computer Science",
+        "Engineering",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Mathematics",
+        "Materials Science",
+        "Earth Sciences",
+        "Robotics",
+        "Environmental Science",
+        "Aerospace Engineering",
+        "Civil Engineering",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Biotechnology",
+        "Energy Science",
+        "Management, Technology, and Economics",
+        "Biomedical Engineering",
+        "Nanotechnology",
+        "Quantum Engineering"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the online application through the ETH Zurich admissions portal."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment gateway."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and English language proficiency test scores (if required)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two letters of recommendation from teachers or supervisors."
+        },
+        {
+          "step": 5,
+          "description": "Complete any additional program-specific requirements or tests (if applicable)."
+        },
+        {
+          "step": 6,
+          "description": "Check the application portal for updates on the admission status."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, confirm enrollment and prepare for the academic journey at ETH Zurich."
+        }
+      ]
+    },
+    {
+      "name": "University of Tokyo",
+      "image": "https://cdn.britannica.com/52/124752-050-C6AA6622/Yasuda-Auditorium-University-of-Tokyo.jpg",
+      "admissionDates": "April 1 - June 30",
+      "events": ["Orientation Week", "Commencement", "Cherry Blossom Festival"],
+      "researchHistory": "The University of Tokyo is renowned for its contributions to science and technology.",
+      "sports": ["Baseball", "Sumo Wrestling", "Judo"],
+      "rating": 4.6,
+      "details": "The University of Tokyo is a prestigious public research university in Tokyo, Japan.",
+      "collegeGallery": [
+        "https://www.tus.ac.jp/en/assets/img/campus/katsushika/bg_hero.jpg",
+        "https://www.japantimes.co.jp/wp-content/uploads/2023/02/np_file_211079.jpeg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Advancements in Nanotechnology",
+          "author": "Yuki Nakamura",
+          "link": "https://example.com/research-paper-27"
+        },
+        {
+          "title": "Understanding Japan's Economic Growth",
+          "author": "Taro Yamamoto",
+          "link": "https://example.com/research-paper-28"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.4,
+          "comment": "The University of Tokyo offers a high-quality education and a vibrant campus life."
+        },
+        {
+          "rating": 4.2,
+          "comment": "The research facilities and opportunities at the University of Tokyo are commendable."
+        }
+      ],
+      "subjects": [
+        "Engineering",
+        "Economics",
+        "Law",
+        "Medicine",
+        "Science",
+        "Agriculture",
+        "Arts and Sciences",
+        "Education",
+        "Pharmaceutical Sciences",
+        "Engineering",
+        "Fine Arts",
+        "Integrated Sciences",
+        "Interdisciplinary Sciences",
+        "International Studies",
+        "Language and Culture",
+        "Laws",
+        "Mathematical Sciences",
+        "Frontier Sciences",
+        "Public Policy",
+        "Environmental Sciences"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the online application through the University of Tokyo's admission portal."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and English language proficiency test scores (if required)."
+        },
+        {
+          "step": 4,
+          "description": "Provide letters of recommendation from teachers or supervisors."
+        },
+        {
+          "step": 5,
+          "description": "Prepare for and participate in the entrance examination (if applicable)."
+        },
+        {
+          "step": 6,
+          "description": "Check the application portal for updates on the admission status."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, confirm enrollment and prepare for the academic journey at the University of Tokyo."
+        }
+      ]
+    },
+    {
+      "name": "University of Toronto",
+      "image": "https://cdn.britannica.com/62/127362-050-CECE8AFE/Main-Hall-Trinity-College-University-of-Toronto.jpg",
+      "admissionDates": "October 1 - January 15",
+      "events": ["Orientation Week", "Convocation", "Winterfest"],
+      "researchHistory": "The University of Toronto is known for its diverse research programs and global impact.",
+      "sports": ["Ice Hockey", "Soccer", "Basketball"],
+      "rating": 4.7,
+      "details": "The University of Toronto is a prestigious public research university in Toronto, Canada.",
+      "collegeGallery": [
+        "https://www.trinity.utoronto.ca/wp-content/uploads/2019/11/Ariel-view-of-the-Trinity-College-campus.jpg",
+        "https://images.squarespace-cdn.com/content/v1/521b88b9e4b024f66a58adf9/1439848022163-LR8TFIXTIT4QJ99YBNP8/6868008018_f298f018a5_o.jpg?format=1500w"
+      ],
+      "researchPapers": [
+        {
+          "title": "Global Public Health Initiatives",
+          "author": "Olivia Anderson",
+          "link": "https://example.com/research-paper-31"
+        },
+        {
+          "title": "Advancements in Artificial Intelligence",
+          "author": "Noah Williams",
+          "link": "https://example.com/research-paper-32"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "The University of Toronto offers an enriching and supportive academic environment."
+        },
+        {
+          "rating": 4.3,
+          "comment": "The research facilities at the University of Toronto are top-notch."
+        }
+      ],
+      "subjects": [
+        "Computer Science",
+        "Engineering",
+        "Biology",
+        "Economics",
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "Political Science",
+        "Psychology",
+        "History",
+        "English",
+        "Sociology",
+        "Art",
+        "Environmental Studies",
+        "Biomedical Engineering",
+        "Cinema Studies",
+        "Drama",
+        "Religion",
+        "Statistics",
+        "Global Affairs"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the University of Toronto application online through OUAC (Ontario Universities' Application Centre)."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and English language proficiency test scores (if required)."
+        },
+        {
+          "step": 4,
+          "description": "Provide one academic reference and one non-academic reference."
+        },
+        {
+          "step": 5,
+          "description": "Complete any program-specific requirements (e.g., portfolio, audition, interview)."
+        },
+        {
+          "step": 6,
+          "description": "Check the admission portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, confirm enrollment and prepare for the academic journey at the University of Toronto."
+        }
+      ]
+    },
+    {
+      "name": "Imperial College London",
+      "image": "https://media.studentcrowd.net/w852-h568-q90-cfill/1441625739_uploaded.jpg",
+      "admissionDates": "September 1 - January 15",
+      "events": ["Welcome Week", "Commencement", "Science Festival"],
+      "researchHistory": "Imperial College London is known for its excellence in science, engineering, and medicine.",
+      "sports": ["Rugby", "Rowing", "Cricket"],
+      "rating": 4.8,
+      "details": "Imperial College London is a prestigious public research university in London, United Kingdom.",
+      "collegeGallery": [
+        "https://www.imperial.ac.uk/business-school/sites/default/files/styles/focalpoint_5x3_960/public/2019-07/3344_Website_1280x1024_aboutus_header.jpg?h=892bb57a&itok=ifPfz1mR",
+        "https://www.ilwindia.com/wp-content/uploads/2019/07/Imperial-College-of-London-UK.jpg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Advancements in Sustainable Energy",
+          "author": "Sophia Johnson",
+          "link": "https://example.com/research-paper-33"
+        },
+        {
+          "title": "Exploring Quantum Computing",
+          "author": "Oliver Williams",
+          "link": "https://example.com/research-paper-34"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.9,
+          "comment": "Imperial College London offers top-notch education and fosters innovation."
+        },
+        {
+          "rating": 4.7,
+          "comment": "The research opportunities at Imperial College London are exceptional."
+        }
+      ],
+      "subjects": [
+        "Engineering",
+        "Medicine",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Earth Science",
+        "Electrical Engineering",
+        "Aeronautics",
+        "Bioengineering",
+        "Computer Science",
+        "Mathematics",
+        "Materials Science",
+        "Mechanical Engineering",
+        "Civil Engineering",
+        "Business Analytics",
+        "Biochemistry",
+        "Epidemiology",
+        "Science Communication",
+        "Public Health",
+        "Science Fiction Studies"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the UCAS application online for undergraduate programs or the Imperial College London application portal for postgraduate programs."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and English language proficiency test scores (if required)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two academic references or one academic and one employer reference (for postgraduate programs)."
+        },
+        {
+          "step": 5,
+          "description": "Complete any additional program-specific requirements (e.g., interview, portfolio)."
+        },
+        {
+          "step": 6,
+          "description": "Check the admission portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, confirm enrollment and prepare for the academic journey at Imperial College London."
+        }
+      ]
+    },
+    {
+      "name": "University of Sydney",
+      "image": "https://www.sydney.edu.au/content/dam/corporate/images/architecture/quadrangle/high-quad-shot1.jpg",
+      "admissionDates": "July 1 - November 30",
+      "events": ["Orientation Week", "Graduation Day", "Open Day"],
+      "researchHistory": "The University of Sydney is known for its research excellence and diverse academic programs.",
+      "sports": ["Cricket", "Basketball", "Sailing"],
+      "rating": 4.7,
+      "details": "The University of Sydney is a prestigious public research university in Sydney, Australia.",
+      "collegeGallery": [
+        "https://www.sydney.edu.au/content/dam/corporate/images/campus-life/events/_YD_8486.jpg",
+        "https://www.sydney.edu.au/content/dam/corporate/images/architecture/quadrangle/high-quad-shot2.jpg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Advancements in Environmental Studies",
+          "author": "Oliver Davis",
+          "link": "https://example.com/research-paper-41"
+        },
+        {
+          "title": "Understanding Australian Indigenous Cultures",
+          "author": "Sophia Nguyen",
+          "link": "https://example.com/research-paper-42"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "The University of Sydney offers a vibrant and inclusive learning environment."
+        },
+        {
+          "rating": 4.3,
+          "comment": "The research facilities and opportunities at the University of Sydney are excellent."
+        }
+      ],
+      "subjects": [
+        "Medicine",
+        "Engineering",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Computer Science",
+        "Economics",
+        "Psychology",
+        "Mathematics",
+        "History",
+        "Environmental Science",
+        "Sociology",
+        "Business Administration",
+        "Political Science",
+        "Art",
+        "Architecture",
+        "Pharmacy",
+        "Veterinary Science",
+        "Food Science",
+        "Music"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the online application through the University of Sydney's admission portal."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and English language proficiency test scores (if required)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two academic references."
+        },
+        {
+          "step": 5,
+          "description": "Complete any program-specific requirements (e.g., portfolio, interview)."
+        },
+        {
+          "step": 6,
+          "description": "Check the admission portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, confirm enrollment and prepare for the academic journey at the University of Sydney."
+        }
+      ]
+    },
+    {
+      "name": "Peking University",
+      "image": "https://pbs.twimg.com/media/D0eCuodU8AA-WC1.jpg",
+      "admissionDates": "October 1 - December 31",
+      "events": [
+        "Orientation Week",
+        "Commencement",
+        "Peking University Cultural Festival"
+      ],
+      "researchHistory": "Peking University is renowned for its contributions to Chinese culture, arts, and research.",
+      "sports": ["Table Tennis", "Basketball", "Volleyball"],
+      "rating": 4.6,
+      "details": "Peking University is a prestigious public research university in Beijing, China.",
+      "collegeGallery": [
+        "https://c8.alamy.com/comp/DNG73R/beijing-chinachinesehaidian-districtpeking-universitypkubeidhigher-DNG73R.jpg",
+        "https://pengcheng-you.github.io/desires-lab/photos/campusview.jpeg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Preserving Chinese Traditional Medicine",
+          "author": "Zhang Wei",
+          "link": "https://example.com/research-paper-43"
+        },
+        {
+          "title": "Advancements in Artificial Intelligence",
+          "author": "Li Chen",
+          "link": "https://example.com/research-paper-44"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.4,
+          "comment": "Peking University offers a unique blend of tradition and modernity in its education."
+        },
+        {
+          "rating": 4.2,
+          "comment": "The research opportunities at Peking University are outstanding."
+        }
+      ],
+      "subjects": [
+        "Medicine",
+        "Engineering",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Computer Science",
+        "Mathematics",
+        "Economics",
+        "International Relations",
+        "Chinese Language and Literature",
+        "Environmental Science",
+        "History",
+        "Philosophy",
+        "Sociology",
+        "Business Administration",
+        "Law",
+        "Psychology",
+        "Fine Arts",
+        "Archaeology",
+        "Anthropology"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the online application through Peking University's admission portal."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and Chinese language proficiency test scores (if required)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two academic references."
+        },
+        {
+          "step": 5,
+          "description": "Complete any additional program-specific requirements (e.g., interview, portfolio)."
+        },
+        {
+          "step": 6,
+          "description": "Check the admission portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, confirm enrollment and prepare for the academic journey at Peking University."
+        }
+      ]
+    },
+    {
+      "name": "University of Cape Town",
+      "image": "https://marketplace.infrastructurephotos.com/wp-content/uploads/edd/University-of-Cape-Town_161029_-2.jpg",
+      "admissionDates": "April 1 - September 30",
+      "events": ["Orientation Week", "Graduation Ceremony", "Heritage Day"],
+      "researchHistory": "The University of Cape Town is known for its contributions to social sciences, humanities, and African studies.",
+      "sports": ["Rugby", "Cricket", "Soccer"],
+      "rating": 4.7,
+      "details": "The University of Cape Town is a prestigious public research university in Cape Town, South Africa.",
+      "collegeGallery": [
+        "https://c8.alamy.com/comp/2BH0WAE/aerial-photo-of-university-of-cape-town-2BH0WAE.jpg",
+        "https://c8.alamy.com/comp/2E0D1Y6/cape-town-western-cape-south-africa-12222020-aerial-photo-of-the-university-of-cape-town-2E0D1Y6.jpg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Addressing Climate Change in Africa",
+          "author": "Lindiwe Dlamini",
+          "link": "https://example.com/research-paper-45"
+        },
+        {
+          "title": "African Literature and Identity",
+          "author": "Thabo Nkosi",
+          "link": "https://example.com/research-paper-46"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "The University of Cape Town offers a diverse and intellectually stimulating academic environment."
+        },
+        {
+          "rating": 4.3,
+          "comment": "The research facilities and opportunities at the University of Cape Town are excellent."
+        }
+      ],
+      "subjects": [
+        "Medicine",
+        "Engineering",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Computer Science",
+        "Economics",
+        "Environmental Science",
+        "Law",
+        "Political Science",
+        "Sociology",
+        "History",
+        "Business Administration",
+        "Psychology",
+        "Mathematics",
+        "Astronomy",
+        "Dance",
+        "Film Studies",
+        "Philosophy",
+        "Religious Studies"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the online application through the University of Cape Town's admission portal."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and English language proficiency test scores (if required)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two academic references."
+        },
+        {
+          "step": 5,
+          "description": "Complete any program-specific requirements (e.g., portfolio, interview)."
+        },
+        {
+          "step": 6,
+          "description": "Check the admission portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, confirm enrollment and prepare for the academic journey at the University of Cape Town."
+        }
+      ]
+    },
+    {
+      "name": "ETH Zurich",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/ETHZ.JPG",
+      "admissionDates": "November 1 - December 15",
+      "events": ["Freshers' Week", "Graduation Ceremony", "Science Night"],
+      "researchHistory": "ETH Zurich is known for its contributions to engineering, technology, and natural sciences.",
+      "sports": ["Swimming", "Football", "Tennis"],
+      "rating": 4.8,
+      "details": "ETH Zurich is a prestigious public research university in Zurich, Switzerland.",
+      "collegeGallery": [
+        "https://www.zuerich.com/sites/default/files/web_zuerich_eth_hauptgebaeude_1280x960_24299.jpg",
+        "https://www.studyinswitzerland.plus/app/uploads/2018/02/sta_zentrum_hauptgebaeude_048.jpg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Advancements in Sustainable Architecture",
+          "author": "Julia Müller",
+          "link": "https://example.com/research-paper-47"
+        },
+        {
+          "title": "Exploring Quantum Computing",
+          "author": "Maximilian Schneider",
+          "link": "https://example.com/research-paper-48"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.9,
+          "comment": "ETH Zurich offers a world-class education and research opportunities."
+        },
+        {
+          "rating": 4.7,
+          "comment": "The research facilities at ETH Zurich are exceptional."
+        }
+      ],
+      "subjects": [
+        "Computer Science",
+        "Engineering",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Mathematics",
+        "Materials Science",
+        "Robotics",
+        "Environmental Science",
+        "Aerospace Engineering",
+        "Civil Engineering",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Biotechnology",
+        "Energy Science",
+        "Management, Technology, and Economics",
+        "Biomedical Engineering",
+        "Nanotechnology",
+        "Quantum Engineering",
+        "Science, Technology, and Policy"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the online application through ETH Zurich's admission portal."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and English language proficiency test scores (if required)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two letters of recommendation from teachers or supervisors."
+        },
+        {
+          "step": 5,
+          "description": "Complete any additional program-specific requirements or tests (if applicable)."
+        },
+        {
+          "step": 6,
+          "description": "Check the application portal for updates on the admission status."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, confirm enrollment and prepare for the academic journey at ETH Zurich."
+        }
+      ]
+    },
+    {
+      "name": "Seoul National University",
+      "image": "https://mcdonnell.wustl.edu/wp-content/uploads/2020/10/SNU.jpg",
+      "admissionDates": "June 1 - September 30",
+      "events": ["Freshmen Welcome", "Commencement", "Autumn Festival"],
+      "researchHistory": "Seoul National University is known for its contributions to Korean history, culture, and technology.",
+      "sports": ["Taekwondo", "Football", "Basketball"],
+      "rating": 4.7,
+      "details": "Seoul National University is a prestigious public research university in Seoul, South Korea.",
+      "collegeGallery": [
+        "https://www.studyinternational.com/wp-content/uploads/2016/02/news_automn.jpg",
+        "https://www.ibra.net/public/images/customers/ibra.ch/4mvd.jpg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Exploring Korean Art and Identity",
+          "author": "Hyejin Kim",
+          "link": "https://example.com/research-paper-49"
+        },
+        {
+          "title": "Advancements in Renewable Energy",
+          "author": "Seongjoon Lee",
+          "link": "https://example.com/research-paper-50"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "Seoul National University offers a rich cultural and academic experience."
+        },
+        {
+          "rating": 4.3,
+          "comment": "The research facilities and opportunities at Seoul National University are excellent."
+        }
+      ],
+      "subjects": [
+        "Computer Science",
+        "Engineering",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Mathematics",
+        "Economics",
+        "Political Science",
+        "Psychology",
+        "Sociology",
+        "History",
+        "Environmental Science",
+        "Business Administration",
+        "Education",
+        "Korean Language and Literature",
+        "Art",
+        "Astronomy",
+        "Media Studies",
+        "Statistics",
+        "Dance"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the online application through Seoul National University's admission portal."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and Korean language proficiency test scores (if required)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two academic references."
+        },
+        {
+          "step": 5,
+          "description": "Complete any program-specific requirements (e.g., interview, portfolio)."
+        },
+        {
+          "step": 6,
+          "description": "Check the admission portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, confirm enrollment and prepare for the academic journey at Seoul National University."
+        }
+      ]
+    },
+    {
+      "name": "University of British Columbia",
+      "image": "https://www.usnews.com/object/image/00000155-7e9e-d3ec-a9fd-7fdfc7240000/160623-ubc-submitted.jpg?update-time=1466708333713&size=responsiveFlow970",
+      "admissionDates": "September 1 - January 15",
+      "events": ["Imagine Day", "Graduation Ceremony", "Winter Classic"],
+      "researchHistory": "The University of British Columbia is known for its contributions to environmental studies, forestry, and sustainability.",
+      "sports": ["Ice Hockey", "Soccer", "Swimming"],
+      "rating": 4.8,
+      "details": "The University of British Columbia is a prestigious public research university in Vancouver, Canada.",
+      "collegeGallery": [
+        "https://www.tripsavvy.com/thmb/zByKup1qAYOctk9S4CbNOO7MyH4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ubc_aerial-5834d2903df78c6f6a75a911.jpg",
+        "https://www.grad.ubc.ca/sites/default/files/image/pane/22874533294_0ed90127e0_k.jpg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Advancements in Sustainable Development",
+          "author": "Emily Johnson",
+          "link": "https://example.com/research-paper-51"
+        },
+        {
+          "title": "Exploring Indigenous Cultures and Traditions",
+          "author": "Daniel Brown",
+          "link": "https://example.com/research-paper-52"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.9,
+          "comment": "The University of British Columbia offers an enriching and inclusive academic environment."
+        },
+        {
+          "rating": 4.7,
+          "comment": "The research facilities and opportunities at the University of British Columbia are exceptional."
+        }
+      ],
+      "subjects": [
+        "Computer Science",
+        "Engineering",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Economics",
+        "Political Science",
+        "Psychology",
+        "History",
+        "English",
+        "Sociology",
+        "Environmental Science",
+        "Business Administration",
+        "Film Studies",
+        "Geography",
+        "Anthropology",
+        "Linguistics",
+        "Art History",
+        "Asian Studies"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the online application through the University of British Columbia's admission portal."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and English language proficiency test scores (if required)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two academic references."
+        },
+        {
+          "step": 5,
+          "description": "Complete any program-specific requirements (e.g., portfolio, interview)."
+        },
+        {
+          "step": 6,
+          "description": "Check the admission portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, confirm enrollment and prepare for the academic journey at the University of British Columbia."
+        }
+      ]
+    },
+    {
+      "name": "University of São Paulo",
+      "image": "https://global.ncsu.edu/wp-content/uploads/sites/90/2019/03/USP.jpg",
+      "admissionDates": "November 1 - December 30",
+      "events": ["Welcome Day", "Graduation Ceremony", "University Week"],
+      "researchHistory": "The University of São Paulo is known for its contributions to arts, humanities, and Latin American studies.",
+      "sports": ["Football", "Basketball", "Volleyball"],
+      "rating": 4.7,
+      "details": "The University of São Paulo is a prestigious public research university in São Paulo, Brazil.",
+      "collegeGallery": [
+        "https://cdn.britannica.com/s:700x500/96/141196-050-C8E26CEB/Paulista-Museum-part-gardens-University-of-Sao.jpg",
+        "https://cinegridbr.files.wordpress.com/2014/05/fmusp_aerea.jpg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Exploring Brazilian Literature and Culture",
+          "author": "Carla Silva",
+          "link": "https://example.com/research-paper-53"
+        },
+        {
+          "title": "Advancements in Environmental Conservation",
+          "author": "Lucas Costa",
+          "link": "https://example.com/research-paper-54"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "The University of São Paulo offers a rich cultural and academic experience."
+        },
+        {
+          "rating": 4.3,
+          "comment": "The research facilities and opportunities at the University of São Paulo are excellent."
+        }
+      ],
+      "subjects": [
+        "Medicine",
+        "Engineering",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Computer Science",
+        "Economics",
+        "Law",
+        "Pharmacy",
+        "Biotechnology",
+        "Environmental Science",
+        "Sociology",
+        "History",
+        "Anthropology",
+        "Music",
+        "Theater",
+        "Literature",
+        "Fine Arts",
+        "Geosciences",
+        "Statistics"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the online application through the University of São Paulo's admission portal."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and Portuguese language proficiency test scores (if required)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two academic references."
+        },
+        {
+          "step": 5,
+          "description": "Complete any program-specific requirements (e.g., interview, portfolio)."
+        },
+        {
+          "step": 6,
+          "description": "Check the admission portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, confirm enrollment and prepare for the academic journey at the University of São Paulo."
+        }
+      ]
+    },
+    {
+      "name": "National University of Singapore",
+      "image": "https://www.coindesk.com/resizer/62JEyj7wAycHuzRq6VN_UjfzfFY=/arc-photo-coindesk/arc2-prod/public/KLE3WZGOWBFOBEESZSWTZZ7ULA.jpg",
+      "admissionDates": "December 1 - March 31",
+      "events": ["Orientation Week", "Commencement", "NUS Arts Festival"],
+      "researchHistory": "The National University of Singapore is known for its contributions to Asian studies, technology, and business.",
+      "sports": ["Badminton", "Swimming", "Table Tennis"],
+      "rating": 4.8,
+      "details": "The National University of Singapore is a prestigious public research university in Singapore.",
+      "collegeGallery": [
+        "https://lockernlock.vn/wp-content/uploads/2020/02/Picture3.png",
+        "https://apru.org/wp-content/uploads/2021/12/about-utown-scaled.jpeg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Advancements in Sustainable Urban Development",
+          "author": "Tan Wei",
+          "link": "https://example.com/research-paper-55"
+        },
+        {
+          "title": "Exploring Asian Cinema and Media",
+          "author": "Liu Yiyang",
+          "link": "https://example.com/research-paper-56"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.9,
+          "comment": "The National University of Singapore offers a world-class education and fosters cultural diversity."
+        },
+        {
+          "rating": 4.7,
+          "comment": "The research facilities and opportunities at the National University of Singapore are exceptional."
+        }
+      ],
+      "subjects": [
+        "Computer Science",
+        "Engineering",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Economics",
+        "Business Administration",
+        "Political Science",
+        "Psychology",
+        "Environmental Studies",
+        "Sociology",
+        "History",
+        "English",
+        "Communications and New Media",
+        "Southeast Asian Studies",
+        "Architecture",
+        "Dance",
+        "Theater",
+        "Music"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the online application through the National University of Singapore's admission portal."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and English language proficiency test scores (if required)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two academic references."
+        },
+        {
+          "step": 5,
+          "description": "Complete any program-specific requirements (e.g., interview, portfolio)."
+        },
+        {
+          "step": 6,
+          "description": "Check the admission portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, confirm enrollment and prepare for the academic journey at the National University of Singapore."
+        }
+      ]
+    },
+    {
+      "name": "Moscow State University",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Moscow_State_University_crop.jpg",
+      "admissionDates": "June 1 - August 31",
+      "events": ["Freshmen Orientation", "Commencement", "Science Day"],
+      "researchHistory": "Moscow State University is known for its contributions to science, arts, and Russian culture.",
+      "sports": ["Ice Hockey", "Skiing", "Gymnastics"],
+      "rating": 4.6,
+      "details": "Moscow State University is a prestigious public research university in Moscow, Russia.",
+      "collegeGallery": [
+        "https://smapse.com/storage/2022/03/converted/895_0_10-sekretov-mgu-vzglyad-cherez-265-let-raboty-smapse-banner.png",
+        "https://cdn-media.tass.ru/width/1020_b9261fa1/tass/m2/en/uploads/i/20211027/1337877.jpg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Advancements in Space Exploration",
+          "author": "Ivan Petrov",
+          "link": "https://example.com/research-paper-57"
+        },
+        {
+          "title": "Exploring Russian Literature and Poetry",
+          "author": "Ekaterina Ivanova",
+          "link": "https://example.com/research-paper-58"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "Moscow State University offers a diverse academic community and fosters creativity."
+        },
+        {
+          "rating": 4.3,
+          "comment": "The research facilities and opportunities at Moscow State University are excellent."
+        }
+      ],
+      "subjects": [
+        "Computer Science",
+        "Engineering",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Mathematics",
+        "Economics",
+        "Political Science",
+        "Psychology",
+        "Sociology",
+        "History",
+        "Philosophy",
+        "Linguistics",
+        "Art",
+        "Russian Studies",
+        "Music",
+        "Film Studies",
+        "Theater",
+        "Archaeology",
+        "Anthropology"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the online application through Moscow State University's admission portal."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and Russian language proficiency test scores (if required)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two academic references."
+        },
+        {
+          "step": 5,
+          "description": "Complete any program-specific requirements (e.g., interview, portfolio)."
+        },
+        {
+          "step": 6,
+          "description": "Check the admission portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, confirm enrollment and prepare for the academic journey at Moscow State University."
+        }
+      ]
+    },
+    {
+      "name": "University of Buenos Aires",
+      "image": "https://www.globaladmissions.com/uploads/school_pictures/universita-buenos-aires-uba-storia-200-anni.jpg?auto=format,enhance,redeye,compress,true",
+      "admissionDates": "July 1 - October 15",
+      "events": ["Welcome Week", "Commencement", "University Book Fair"],
+      "researchHistory": "The University of Buenos Aires is known for its contributions to social sciences, law, and Latin American history.",
+      "sports": ["Football", "Tennis", "Rugby"],
+      "rating": 4.7,
+      "details": "The University of Buenos Aires is a prestigious public research university in Buenos Aires, Argentina.",
+      "collegeGallery": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/07/School_of_Law_-_University_of_Buenos_Aires_%284729499370%29.jpg",
+        "https://c8.alamy.com/comp/M91PK7/uba-law-school-faculty-of-law-facultad-de-derecho-university-of-buenos-aires-argentina-M91PK7.jpg"
+      ],
+      "researchPapers": [
+        {
+          "title": "Exploring Latin American Politics",
+          "author": "Carlos Rodriguez",
+          "link": "https://example.com/research-paper-59"
+        },
+        {
+          "title": "Advancements in Social Justice Studies",
+          "author": "Maria Fernandez",
+          "link": "https://example.com/research-paper-60"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "The University of Buenos Aires provides an intellectually stimulating environment."
+        },
+        {
+          "rating": 4.3,
+          "comment": "The research facilities and opportunities at the University of Buenos Aires are excellent."
+        }
+      ],
+      "subjects": [
+        "Medicine",
+        "Engineering",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Computer Science",
+        "Economics",
+        "Law",
+        "Psychology",
+        "Sociology",
+        "History",
+        "Philosophy",
+        "Political Science",
+        "Fine Arts",
+        "Environmental Science",
+        "Biotechnology",
+        "Anthropology",
+        "Geology",
+        "Music",
+        "Theater"
+      ],
+      "admissionProcedure": [
+        {
+          "step": 1,
+          "description": "Submit the online application through the University of Buenos Aires' admission portal."
+        },
+        {
+          "step": 2,
+          "description": "Pay the application fee through the provided payment options."
+        },
+        {
+          "step": 3,
+          "description": "Submit official academic transcripts and Spanish language proficiency test scores (if required)."
+        },
+        {
+          "step": 4,
+          "description": "Provide two academic references."
+        },
+        {
+          "step": 5,
+          "description": "Complete any program-specific requirements (e.g., interview, portfolio)."
+        },
+        {
+          "step": 6,
+          "description": "Check the admission portal for application status and decisions."
+        },
+        {
+          "step": 7,
+          "description": "Upon acceptance, confirm enrollment and prepare for the academic journey at the University of Buenos Aires."
+        }
+      ]
+    }
+  ]
+}
