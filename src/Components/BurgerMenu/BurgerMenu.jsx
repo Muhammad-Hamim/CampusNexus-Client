@@ -10,7 +10,6 @@ import logo from "../../assets/Navbar/logo.png";
 import useAuth from "../../Hooks/useAuth";
 const BurgerMenu = () => {
   const { isOpen, setIsOpen } = useAuth();
-  console.log(isOpen);
   const navItem = [
     {
       name: "Home",

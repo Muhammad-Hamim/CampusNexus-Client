@@ -3,9 +3,8 @@ import { FaRegHeart } from "react-icons/fa";
 import { TailSpin } from "react-loader-spinner";
 import { Link } from "react-router-dom";
 import { useColleges } from "../../Hooks/useColleges";
-const Colleges = () => {
-  const { colleges, isLoading } = useColleges();
-  console.log(colleges);
+const Colleges = ({limit}) => {
+  const { colleges, isLoading } = useColleges(limit);
   if (isLoading) {
     return (
       <div className="flex justify-center items-center w-full min-h-[60vh]">

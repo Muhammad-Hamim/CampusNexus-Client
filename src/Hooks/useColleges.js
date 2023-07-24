@@ -1,15 +1,29 @@
 import { useQuery } from "@tanstack/react-query";
 import axios from "axios";
 
-export const useColleges = () => {
+export const useColleges = (limit) => {
   const { data: colleges = [], isLoading } = useQuery({
     queryKey: ["Colleges"],
     queryFn: async () => {
-      const res = await axios.get(`${import.meta.env.VITE_BaseURL}/colleges`);
+      const res = await axios.get(
+        `${import.meta.env.VITE_BaseURL}/colleges?limit=${limit}`
+      );
       return res.data;
     },
   });
   return { colleges, isLoading };
+};
+export const collegeReview = (review) => {
+  const { data: reviews = [], isLoading } = useQuery({
+    queryKey: ["review", review],
+    queryFn: async () => {
+      const res = await axios.get(
+        `${import.meta.env.VITE_BaseURL}/colleges?review=${review}`
+      );
+      return res.data;
+    },
+  });
+  return { reviews, isLoading };
 };
 
 export const useCollegeGallery = (limit) => {
@@ -39,9 +53,9 @@ export const useSingleCollege = (id) => {
     queryFn: async () => {
       const res = await axios.get(
         `${import.meta.env.VITE_BaseURL}/colleges/${id}`
-        );
-        return res.data;
-      },
+      );
+      return res.data;
+    },
   });
   return { singleCollege, isLoading, refetch };
 };
